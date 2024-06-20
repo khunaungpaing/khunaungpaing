@@ -10,7 +10,7 @@ I'm a passionate computer science student with a strong appetite for learning an
 
 I'm proficient in a variety of technologies and frameworks, including:
 
-- **Languages**:  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="20" height="20" /> Java,<img src="https://img.icons8.com/color/48/golang.png" width="20" height="20" /> GoLang, Object-Oriented Programming, Design Patterns
+- **Languages**:  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="20" height="20" /> Java,<img src="https://img.icons8.com/color/48/golang.png" width="20" height="20" /> GoLang, OOP concepts, Solid Principles, Design Patterns
 - **Spring Framework**:
   <img src="https://img.icons8.com/color/48/spring-logo.png" width="20" height="20" /> Spring, Spring Boot, Spring Data, Spring Security, Spring Batch
 - **Web Development**:
