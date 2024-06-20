@@ -12,12 +12,14 @@ I'm proficient in a variety of technologies and frameworks, including:
 
 - **Languages**:  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" width="20" height="20" /> Java,<img src="https://img.icons8.com/color/48/golang.png" width="20" height="20" /> GoLang, Object-Oriented Programming, Design Patterns
 - **Spring Framework**:
-  <img src="https://img.icons8.com/color/48/spring-logo.png" width="20" height="20" /> Spring, Spring Boot, Spring Data, Spring Security
+  <img src="https://img.icons8.com/color/48/spring-logo.png" width="20" height="20" /> Spring, Spring Boot, Spring Data, Spring Security, Spring Batch
 - **Web Development**:
   <img src="https://img.icons8.com/color/48/javascript--v1.png" width="20" height="20" /> JavaScript, <img width="20" height="20" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> TypeScript,
   <img src="https://img.icons8.com/color/48/html-5.png" width="20" height="20" /> HTML, 
   <img src="https://img.icons8.com/color/48/css3.png" width="20" height="20" /> CSS
 - **UI Frameworks**:
+  <img src="https://img.icons8.com/color/48/vue.png" width="20" height="20" /> Vue,
+  <img src="https://img.icons8.com/color/48/nuxt.png" width="20" height="20" /> Nuxt, 
   <img src="https://img.icons8.com/color/48/bootstrap.png" width="20" height="20" /> Bootstrap, 
   <img src="https://img.icons8.com/color/48/tailwindcss.png" width="20" height="20" /> Tailwind CSS
 
